@@ -187,3 +187,9 @@ Conclusion
 This is the end of the first part of the tutorial. We will surely have more fun in the next part. Subscribe to our youtube channel to get notified about the next part of the tutorial. Keep enjoying Tea and Django!
 Tags
 DjangoPythonPython 3python beginnerdjango master
+
+
+
+#Create Super User admin  command
+
+python manage.py createsuperuser
